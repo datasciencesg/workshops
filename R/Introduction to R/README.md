@@ -1,2 +1,3 @@
 # Introduction to R
-Refer to PDF to get started
+- Designed by @linchun1993
+- Refer to PDF to get started
