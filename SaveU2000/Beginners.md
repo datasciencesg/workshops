@@ -1,18 +1,18 @@
 # Overview
 
 - **Lesson 1: Introduction to Deep Learning**
-  - *Linear Models and Gradient Descent*
+  - 1.1: *Linear Models and Gradient Descent*
     - Binary Classification
     - Logistic Regression
     
-  - *Machine Learning Frameworks*
+  - 1.2: *Machine Learning Frameworks*
     - Deep Learning
     - Machine Learning
     - Probablistic Learning
   
 ----
 
-### **Linear Models and Gradient Descent**
+### 1.1: Linear Models and Gradient Descent
 
   - *Binary Classification*
     - https://machinelearningmastery.com/binary-classification-tutorial-with-the-keras-deep-learning-library/
@@ -46,7 +46,7 @@
     
 ----
 
-###  Introduction to Machine Learning Frameworks*
+###  1.2: Introduction to Machine Learning Frameworks
 
   - *Deep Learning*
     - [Keras] https://web.stanford.edu/class/cs20si/lectures/march9guestlecture.pdf
