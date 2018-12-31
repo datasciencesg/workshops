@@ -1,9 +1,9 @@
 # Overview
 
 - **Lesson 1: Introduction to Deep Learning**
-  - **Linear Models and Gradient Descent**
-    - *Binary Classification*
-    - *Logistic Regression*
+  - *Linear Models and Gradient Descent*
+    - Binary Classification
+    - Logistic Regression
     
 - **Lesson 2: Introduction to Machine Learning Frameworks**
   - *Deep Learning*
