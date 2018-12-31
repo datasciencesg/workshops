@@ -5,7 +5,19 @@
     - *Binary Classification*
     - *Logistic Regression*
     
-- **Lesson 2: 
+- **Lesson 2: Introduction to Machine Learning Frameworks**
+  - *Deep Learning*
+    - [Keras] https://web.stanford.edu/class/cs20si/lectures/march9guestlecture.pdf
+    - [Keras] https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/
+    - [Tensorflow] https://towardsdatascience.com/a-beginner-introduction-to-tensorflow-part-1-6d139e038278
+    - [Tensorflow] https://cs230-stanford.github.io/tensorflow-getting-started.html
+    - [PyTorch] https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html 
+    - [PyTorch] https://towardsdatascience.com/pytorch-tutorial-distilled-95ce8781a89c
+    
+    
+  - Machine Learning
+  - Probablistic Learning
+  
 
 ----
 
@@ -43,22 +55,25 @@
   - If you can, join the University of Washington's regression course reference above, it's really good. If you can't afford it, try "audit the course" button or apply for the financial aid to enroll
   - If you like phyiscal books, start with the reference books above, you don't really have to buy them if you're residing locally, the national library board (in Singapore) have most them. If not you can download the NLB app and recommend the librarians to get it. =)
     
-  
+----
 
-
-Linear models and gradient descent
-- binary classication
- - logistic regrrsssion
-   
-
- - multi-headed classification
- 
+- **Lesson 2: Introduction to Machine Learning Frameworks**
+  - *Deep Learning*
+    - [Keras] https://web.stanford.edu/class/cs20si/lectures/march9guestlecture.pdf
+    - [Keras] https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/
+    - [Tensorflow] https://towardsdatascience.com/a-beginner-introduction-to-tensorflow-part-1-6d139e038278
+    - [Tensorflow] https://cs230-stanford.github.io/tensorflow-getting-started.html
+    - [PyTorch] https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html 
+    - [PyTorch] https://towardsdatascience.com/pytorch-tutorial-distilled-95ce8781a89c
+    
+    
+    
  introduction to deep learning frameworks
   - tensorflow, keras and tensorboard
   - torch and pytroch
   - dynet
   
- 
+ ----
   
   practical tips in training deep neural net
   - bias and variance
