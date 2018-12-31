@@ -4,17 +4,15 @@
   - 2.1: *Introduction to Computer Vision*
 
   - 2.2: *Convolutional Neural Net*
-    - Deep Learning
-    - Machine Learning
-    - Probablistic Learning
+    - Full classes on CNN
+    - Blogposts that presents CNN
+    - Show me the Code
     
-  - 1.3: *Deep Learning (for real)*
+  - 2.3: *Convolutional Neural Net (for real)*
   
 ----
 
-### 1.1: Linear Models and Gradient Descent
-
-# Introduction to Computer Vision
+### Introduction to Computer Vision
 
  - Georgia Tech Course: https://www.cc.gatech.edu/~hays/compvision/
  - Yet another Georgia Tech Course: https://samyak-268.github.io/F18CS4476/
@@ -22,16 +20,17 @@
  - KAIST Course: http://vclab.kaist.ac.kr/cs484/index.html 
  - MIT computer Vision class: https://www.youtube.com/watch?v=CLOAswsxudo (part of [self-driving cars course](https://selfdrivingcars.mit.edu/))
  - Stanford course http://cs231n.stanford.edu/ 
- - [Programming Computer Vision with Python](http://shop.oreilly.com/product/0636920022923.do) by Jan Solem
  
  
-# Convolutional Neural Nets (CNN)
+### Convolutional Neural Nets (CNN)
 
- - A full class on CNN (usually part of a course)
+ - *Full classes on CNN* (usually part of a course)
    - Udacity PyTorch course: https://classroom.udacity.com/courses/ud188 
+   - Udacity Tensorflow course: https://classroom.udacity.com/courses/ud730
    - Stanford Course http://cs231n.github.io/convolutional-networks/
- 
- - Blogposts that presents CNN
+   - Kaggle Learn https://www.kaggle.com/learn/deep-learning
+    
+ - *Blogposts that presents CNN*
    - https://medium.freecodecamp.org/an-intuitive-guide-to-convolutional-neural-networks-260c2de0a050
    - https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/
    - https://skymind.ai/wiki/convolutional-network
@@ -40,5 +39,13 @@
    - https://medium.com/@RaghavPrabhu/understanding-of-convolutional-neural-network-cnn-deep-learning-99760835f148
    - https://developer.nvidia.com/discover/convolutional-neural-network (at the end of the post, there's a few links that are really good for further readings about CNN)
    
- - Show me the code
-   - MNIST with CNN
+ - *Show me the Code*
+   - https://www.tensorflow.org/tutorials/estimators/cnn
+   - http://adventuresinmachinelearning.com/keras-tutorial-cnn-11-lines/ (the pop-up advertises his book though...)
+   - https://www.kaggle.com/cdeotte/how-to-choose-cnn-architecture-mnist 
+   - https://github.com/keras-team/keras/blob/master/examples/mnist_cnn.py 
+   - https://medium.com/tensorflow/hello-deep-learning-fashion-mnist-with-keras-50fcff8cd74a
+   - https://github.com/MorvanZhou/PyTorch-Tutorial/blob/master/tutorial-contents/401_CNN.py
+   
+
+### Convolutional Neural Net (for real)
