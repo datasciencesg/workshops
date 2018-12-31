@@ -16,7 +16,19 @@ Linear models and gradient descent
   - bias and variance
   
   
-  # Lesson 2:
+  # Lesson 2: Convolutional neural nets
+  
+  Oh come on, they literally rip off the course on udacity...
+  
+  # Lesson 3: Further tips and tricks
+  
+  - pre-trained models and transfer learning
+  - freezing layers
+  - optimizers and its hyperparameters
+  
+  # Lesson 4: intrpretable CNNs
+  
+   - 
   
   
  
