@@ -86,7 +86,7 @@
    - [Tensorflow/Keras] https://www.tensorflow.org/community/ (mainly stackoverflow, just tag your question with `tensorflow` tag)
    - [Fast AI] https://forums.fast.ai/ 
  - Knowing tensorboard will get you far, do take a look at https://www.youtube.com/watch?v=eBbEDRsCmv4
- - The Udacity tutorials in the references above are great start to the frameworks, investing time in them will save you time learning the way of the hard knocks later.
+ - The video/book tutorials in the references above are great start to the frameworks, investing time in them will save you time learning the way of the hard knocks later.
  
 ----
 
