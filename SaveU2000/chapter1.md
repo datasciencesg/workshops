@@ -1,6 +1,6 @@
 # Overview
 
-- **Lesson 1: Introduction to Deep Learning**
+- **Chapter 1: Introduction to Deep Learning**
   - 1.1: *Linear Models and Gradient Descent*
     - Binary Classification
     - Logistic Regression
