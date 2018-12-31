@@ -1,3 +1,19 @@
+# Overview
+
+- **Chapter 2: Computer Vision and Convolutional Neural Net**
+  - 2.1: *Introduction to Computer Vision*
+
+  - 2.2: *Convolutional Neural Net*
+    - Deep Learning
+    - Machine Learning
+    - Probablistic Learning
+    
+  - 1.3: *Deep Learning (for real)*
+  
+----
+
+### 1.1: Linear Models and Gradient Descent
+
 # Introduction to Computer Vision
 
  - Georgia Tech Course: https://www.cc.gatech.edu/~hays/compvision/
@@ -6,6 +22,7 @@
  - KAIST Course: http://vclab.kaist.ac.kr/cs484/index.html 
  - MIT computer Vision class: https://www.youtube.com/watch?v=CLOAswsxudo (part of [self-driving cars course](https://selfdrivingcars.mit.edu/))
  - Stanford course http://cs231n.stanford.edu/ 
+ - [Programming Computer Vision with Python](http://shop.oreilly.com/product/0636920022923.do) by Jan Solem
  
  
 # Convolutional Neural Nets (CNN)
