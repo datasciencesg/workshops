@@ -9,6 +9,8 @@
     - Deep Learning
     - Machine Learning
     - Probablistic Learning
+    
+  - 1.3: *Deep Learning (for real)*
   
 ----
 
@@ -58,6 +60,7 @@
     - [PyTorch] https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html 
     - [PyTorch] https://towardsdatascience.com/pytorch-tutorial-distilled-95ce8781a89c
     - [PyTorch] https://pytorch.org/tutorials/beginner/finetuning_torchvision_models_tutorial.html (specific to Computer Vision)
+    - [FastAI] https://www.fast.ai/
     - [DyNet] https://github.com/clab/dynet_tutorial_examples (specific to NLP)
    - *Machine Learning*
      - [scikit-learn] https://scikit-learn.org/stable/tutorial/index.html
@@ -73,6 +76,7 @@
 
  - Tensorflow course on Udacity: https://www.udacity.com/course/deep-learning--ud730 (Knowledge is free, certification needs payment)
  - PyTorch course on Udacity https://in.udacity.com/course/deep-learning-pytorch--ud188 
+ -  Fast AI https://www.fast.ai/ 
  - Bayesian analysis https://sites.google.com/site/doingbayesiandataanalysis/what-s-new-in-2nd-ed 
     
 **Words of advice:**
@@ -80,11 +84,32 @@
  - Best help on the framework you get would be the dev-users communication channels that are in place for the specific frameworks
    - [PyTorch] https://discuss.pytorch.org/
    - [Tensorflow/Keras] https://www.tensorflow.org/community/ (mainly stackoverflow, just tag your question with `tensorflow` tag)
+   - [Fast AI] https://forums.fast.ai/ 
  - Knowing tensorboard will get you far, do take a look at https://www.youtube.com/watch?v=eBbEDRsCmv4
  - The Udacity tutorials in the references above are great start to the frameworks, investing time in them will save you time learning the way of the hard knocks later.
  
-  
-   - 
-  
-  
+----
+
+
+### 1.3: Deep Learning (for real)
+
+Honestly, if you're only learning how to use frameworks and knowing which models/layers to use to specific tasks, it's cool and most probably you get something working. 
+
+Knowing how to debug when training the model, how to evaluate models and how to improve the models has little to do with whether you know the syntax of the frameworks or stack the layers properly.
+
+My suggestion is to go through the introduction courses listed in the reference list in 1.2 tediously. 
  
+  - Don't just watch the videos and `shift`+`enter` through the notebooks
+  - Do change some values in the notebooks and see how the function/layer/outputs reacts to the changes
+  - Don't keep to yourself if you're stuck, go to the respective forums of the framework to look for help
+  - Do be nice and descriptive when asking for help =)
+  <!-- - Don't pass go, don't collect $200 (Just joking on this point; pardon the bad Monopoly game pun) -->
+  
+If you want a real deep dive to "Deep Learning (for real)", many good universities have their course materials freely available, there's no need to really pay someone to regurgitate them to you ;p
+
+- Stanford Deep Learning Course http://cs230.stanford.edu/syllabus.html
+- MIT Deep Learning Course http://introtodeeplearning.com/2018/index.html 
+- CMU Deep Learning Course http://deeplearning.cs.cmu.edu/
+- Berkley Deep Learning Course https://berkeley-deep-learning.github.io/ 
+- Princeton Deep Learning Course https://www.cs.princeton.edu/courses/archive/spring16/cos495/
+
