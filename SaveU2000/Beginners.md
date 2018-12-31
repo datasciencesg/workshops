@@ -5,15 +5,12 @@
     - Binary Classification
     - Logistic Regression
     
-- **Lesson 2: Introduction to Machine Learning Frameworks**
-  - *Deep Learning*
-  - *Machine Learning*
-  - *Probablistic Learning*
+  - *Machine Learning Frameworks*
+    - Deep Learning
+    - Machine Learning
+    - Probablistic Learning
   
-
 ----
-
-# Lesson 1: Introduction to Deep Learning
 
 ### **Linear Models and Gradient Descent**
 
@@ -49,7 +46,8 @@
     
 ----
 
-- **Lesson 2: Introduction to Machine Learning Frameworks**
+###  Introduction to Machine Learning Frameworks*
+
   - *Deep Learning*
     - [Keras] https://web.stanford.edu/class/cs20si/lectures/march9guestlecture.pdf
     - [Keras] https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/
@@ -82,27 +80,9 @@
  - Best help on the framework you get would be the dev-users communication channels that are in place for the specific frameworks
    - [PyTorch] https://discuss.pytorch.org/
    - [Tensorflow/Keras] https://www.tensorflow.org/community/ (mainly stackoverflow, just tag your question with `tensorflow` tag)
- - If you're working with Tensorflow, knowing tensorboard will get you far, do take a look at https://www.youtube.com/watch?v=eBbEDRsCmv4
+ - Knowing tensorboard will get you far, do take a look at https://www.youtube.com/watch?v=eBbEDRsCmv4
  - The Udacity tutorials in the references above are great start to the frameworks, investing time in them will save you time learning the way of the hard knocks later.
  
-  
- ----
-  
-  practical tips in training deep neural net
-  - bias and variance
-  
-  
-  # Lesson 2: Convolutional neural nets
-  
-  Oh come on, they literally rip off the course on udacity...
-  
-  # Lesson 3: Further tips and tricks
-  
-  - pre-trained models and transfer learning
-  - freezing layers
-  - optimizers and its hyperparameters
-  
-  # Lesson 4: intrpretable CNNs
   
    - 
   
