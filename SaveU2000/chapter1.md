@@ -100,7 +100,7 @@ Knowing how to debug when training the model, how to evaluate models and how to 
 My suggestion is to go through the introduction courses listed in the reference list in 1.2 tediously. 
  
   - Don't just watch the videos and `shift`+`enter` through the notebooks
-  - Do change some values in the notebooks and see how the function/layer/outputs reacts to the changes
+  - Do change some values in the notebooks and see how and understand why the function/layer/outputs reacts to the changes
   - Don't keep to yourself if you're stuck, go to the respective forums of the framework to look for help
   - Do be nice and descriptive when asking for help =)
   <!-- - Don't pass go, don't collect $200 (Just joking on this point; pardon the bad Monopoly game pun) -->
