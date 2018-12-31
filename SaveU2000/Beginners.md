@@ -7,16 +7,8 @@
     
 - **Lesson 2: Introduction to Machine Learning Frameworks**
   - *Deep Learning*
-    - [Keras] https://web.stanford.edu/class/cs20si/lectures/march9guestlecture.pdf
-    - [Keras] https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/
-    - [Tensorflow] https://towardsdatascience.com/a-beginner-introduction-to-tensorflow-part-1-6d139e038278
-    - [Tensorflow] https://cs230-stanford.github.io/tensorflow-getting-started.html
-    - [PyTorch] https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html 
-    - [PyTorch] https://towardsdatascience.com/pytorch-tutorial-distilled-95ce8781a89c
-    
-    
-  - Machine Learning
-  - Probablistic Learning
+  - *Machine Learning*
+  - *Probablistic Learning*
   
 
 ----
@@ -63,15 +55,36 @@
     - [Keras] https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/
     - [Tensorflow] https://towardsdatascience.com/a-beginner-introduction-to-tensorflow-part-1-6d139e038278
     - [Tensorflow] https://cs230-stanford.github.io/tensorflow-getting-started.html
+    - [Tensorboard] https://itnext.io/how-to-use-tensorboard-5d82f8654496 
+    - [Tensorboard] https://www.youtube.com/watch?v=eBbEDRsCmv4
     - [PyTorch] https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html 
     - [PyTorch] https://towardsdatascience.com/pytorch-tutorial-distilled-95ce8781a89c
+    - [PyTorch] https://pytorch.org/tutorials/beginner/finetuning_torchvision_models_tutorial.html (specific to Computer Vision)
+    - [DyNet] https://github.com/clab/dynet_tutorial_examples (specific to NLP)
+   - *Machine Learning*
+     - [scikit-learn] https://scikit-learn.org/stable/tutorial/index.html
+     - [Vowpal Wabbit] https://github.com/VowpalWabbit/vowpal_wabbit/wiki
+     - There's a couple on this list too http://www.erogol.com/broad-view-machine-learning-libraries/ 
+   - *Probabilistic Learning*
+     - [PyMC3] https://docs.pymc.io/
+     - [Stan] https://mc-stan.org/ 
+     - [Statsmodels] http://www.statsmodels.org/stable/index.html
+     - [Tensorflow Probability] https://www.tensorflow.org/probability/ , see also http://dustintran.com/talks/Tran_Edward.pdf
+     
+**References**
+
+ - Tensorflow course on Udacity: https://www.udacity.com/course/deep-learning--ud730 (Knowledge is free, certification needs payment)
+ - PyTorch course on Udacity https://in.udacity.com/course/deep-learning-pytorch--ud188 
+ - Bayesian analysis https://sites.google.com/site/doingbayesiandataanalysis/what-s-new-in-2nd-ed 
     
-    
-    
- introduction to deep learning frameworks
-  - tensorflow, keras and tensorboard
-  - torch and pytroch
-  - dynet
+**Words of advice:**
+
+ - Best help on the framework you get would be the dev-users communication channels that are in place for the specific frameworks
+   - [PyTorch] https://discuss.pytorch.org/
+   - [Tensorflow/Keras] https://www.tensorflow.org/community/ (mainly stackoverflow, just tag your question with `tensorflow` tag)
+ - If you're working with Tensorflow, knowing tensorboard will get you far, do take a look at https://www.youtube.com/watch?v=eBbEDRsCmv4
+ - The Udacity tutorials in the references above are great start to the frameworks, investing time in them will save you time learning the way of the hard knocks later.
+ 
   
  ----
   
