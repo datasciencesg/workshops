@@ -14,8 +14,6 @@ Hopefully, this list would serve the Data Science SG community as a gauge of whe
 How to use this list of materials?
 ====
 
-Simply navigate to:
+Simply navigate to https://github.com/datasciencesg/workshops/tree/ndsc-free-course/SaveU2000/Beginners
 
-Note:
-
- - We only have the beginner topics ready for now. But do also not that while some courses/bootcamps might think that some topics are advance, we might have them in the beginners topic.
+**Note:** We only have the beginner topics ready for now. But do also not that while some courses/bootcamps might think that some topics are advance, we might have them in the beginners topic.
