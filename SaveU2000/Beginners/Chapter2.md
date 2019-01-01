@@ -50,7 +50,19 @@
 
 ### Convolutional Neural Net (for real)
 
-Frankly, blogposts are nice as an idea introducer. After that one should either dive into the code or get onto the classes (in the reference list above) to understand the details of why and how CNNs work. CNN are powerful tools that can solve many problems (even outside of computer vision). 
+Frankly, blogposts are nice as an idea introducer. After that one should either dive into the code or get onto the free classes (in the reference list above) to understand the details of why and how CNNs work. CNN are powerful tools that can solve many problems (even outside of computer vision). Usually, any of the courses listed above should cover:
+
+ - What is the covolution filter?
+ - What is a fully connected layer? What is pooling? What is the difference? 
+ - What are the different "dimensions", "channels" in convolution neural nets?
+ - How to not overfit? (the measures to prevent overfit is aka regularization)
+ - How to use dropout as a regularization measure? 
+ - How to apply simple convolution neural nets to image classification task?
+
+Sometimes, there'll be more practical knowledge in the classes above too:
+
+ - How to apply deeper CNN architectures to image classification task? 
+ - How to use pre-trained models from other people to do tansfer learning
 
 After knowing what CNN layers does and what convolutional filters are and CNN arithmetics in details, you might not go far. To really understand CNNs and make them work, most probably you need some understanding about state of art variants of CNNs and how CNNs are stacked to form bigger architectures, e.g. Resnet, VGGnet, Inception, YOLO etc. should be the end goal one should seek. And to understand these new architectures, normally Googling these terms with your deep learning framework of choice would point to good tutorial/code that you can read, e.g. "Resnet pytorch", "inception keras".
 
