@@ -14,7 +14,6 @@
 
 - [**Chapter 2: Computer Vision and Convolutional Neural Net**](https://github.com/datasciencesg/workshops/blob/master/LearnItYourself/Beginners/Chapter1.md)
   - 2.1: *Introduction to Computer Vision*
-
   - 2.2: *Convolutional Neural Net*
     - Blogposts that presents CNN
     - Show me the Code
