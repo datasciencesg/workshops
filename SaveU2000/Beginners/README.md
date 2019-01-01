@@ -36,6 +36,6 @@
 - **Chapter 5: Nuts and Bolts in Machine Learning** 
   - 5.1: *Bias and Variance*
   - 5.2: *Regularlization*
-    - L1 and L2 Regularization (aka weights regularization
+    - L1 and L2 Regularization (aka weights regularization)
     - Dropout
     - Activity Regularization
