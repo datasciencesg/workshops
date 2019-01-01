@@ -10,7 +10,7 @@ We at Data Science Singapore believe in self-learning. In the Data Science (DS) 
 
 Technology, esp. machine/deep learning moves really fast. Thus, many researchers are "online-educated" about deep learning. In fact, I can boldly say that the practitioners following Andrew Ng, Jeremy Howard and the likes are MOOC educated. 
 
-Hopefully, this list would serve the Data Science SG community as a gauge of whether it's enough for you to simply go through some of the materials linked to topics before one decides to spend on bootcamps and coding courses. Many times it's not the learning materials or code that's important but the journey of learning and self-exploration that's important to understand and implement the concepts. For some, a simple lead from this list is sufficient to spark the self-learning =)
+Hopefully, this list would serve the Data Science SG community as a gauge of whether it's enough for you to simply go through some of the materials linked to topics before one decides to spend on bootcamps and coding courses. Many times it's not the learning materials or code that's important but the journey of learning and self-exploration that's important to understand and implement the concepts. For some, a simple lead from this list is sufficient to spark a journey of continuous self-learning =)
 
 
 How to use this list of materials?
