@@ -6,7 +6,7 @@ There are many bootcamps and coding courses on data science and machine/deep lea
 Why create this list of materials?
 ====
 
-We at Data Science Singapore believe in self-learning. In the Data Science (DS) or Machine Learning (ML) field, most often the best knowledge you get is learnt from resources online that are freely available. 
+We at Data Science Singapore believe in self-learning. In the Data Science (DS) or Machine Learning (ML) field, most often the best knowledge you get is learnt from authentic academic conferences, unversity materials, open source documentations/forums and a tonne of resources online that are freely available. 
 
 Technology, esp. machine/deep learning moves really fast. Thus, many researchers are "online-educated" about deep learning. In fact, I can boldly say that the practitioners following Andrew Ng, Jeremy Howard and the likes are MOOC educated. 
 
