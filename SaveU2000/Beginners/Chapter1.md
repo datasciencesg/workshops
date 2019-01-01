@@ -4,6 +4,7 @@
   - 1.1: *Linear Models and Gradient Descent*
     - Binary Classification
     - Logistic Regression
+    - Gradient Descent from Scratch
     
   - 1.2: *Machine Learning Frameworks*
     - Deep Learning
@@ -29,6 +30,11 @@
     - https://machinelearningmastery.com/logistic-regression-tutorial-for-machine-learning/
     - https://towardsdatascience.com/building-a-logistic-regression-in-python-step-by-step-becd4d56c9c8
     - https://towardsdatascience.com/logistic-regression-using-python-sklearn-numpy-mnist-handwriting-recognition-matplotlib-a6b31e2b166a
+    
+  - *Gradient Descent from Scratch*
+    - https://gluon.mxnet.io/chapter06_optimization/gd-sgd-scratch.html
+    - https://machinelearningmastery.com/implement-linear-regression-stochastic-gradient-descent-scratch-python/
+    - http://datacognizant.com/wp-content/uploads/2017/03/LogisticRegression_loglikelihood_derivative_gradientdescent-1.html (althogh `graphlab` is no longer maintained the exercise for gradient descent is valid)
 
 
 **References:**
