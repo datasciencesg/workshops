@@ -71,14 +71,16 @@ The answer to the above are usually (i) profile your code, (ii) make model small
    
 ----
  
-### 5.3: Knowledge Distillation (maybe not so beginner but good to know to make your models smaller)
+### 5.3: Knowledge Distillation 
 
-    - The paper: https://arxiv.org/abs/1503.02531 
-    - https://github.com/Ujjwal-9/Knowledge-Distillation
-    - https://jacobgil.github.io/deeplearning/pruning-deep-learning
-    - https://www.oreilly.com/ideas/compressing-and-regularizing-deep-neural-networks
-    - https://github.com/kmsravindra/ML-AI-experiments/blob/master/AI/knowledge_distillation/Knowledge%20distillation.ipynb
-    - https://medium.com/neural-machines/knowledge-distillation-dc241d7c2322
-    - https://github.com/dkozlov/awesome-knowledge-distillation
-    - https://github.com/NervanaSystems/distiller/ 
+Maybe not so beginner but it's good to know distillation to make your models smaller.
+
+  - The paper: https://arxiv.org/abs/1503.02531 
+  - https://github.com/Ujjwal-9/Knowledge-Distillation
+  - https://jacobgil.github.io/deeplearning/pruning-deep-learning
+  - https://www.oreilly.com/ideas/compressing-and-regularizing-deep-neural-networks
+  - https://github.com/kmsravindra/ML-AI-experiments/blob/master/AI/knowledge_distillation/Knowledge%20distillation.ipynb
+  - https://medium.com/neural-machines/knowledge-distillation-dc241d7c2322
+  - https://github.com/dkozlov/awesome-knowledge-distillation
+  - https://github.com/NervanaSystems/distiller/ 
 
