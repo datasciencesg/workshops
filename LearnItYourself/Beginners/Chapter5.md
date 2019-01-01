@@ -49,30 +49,30 @@ The answer to the above are usually (i) profile your code, (ii) make model small
 ### 5.2: Regularization
 
  - Why is my Neural Network not working?
-  - https://blog.slavv.com/37-reasons-why-your-neural-network-is-not-working-4020854bd607
-  - https://machinelearningmastery.com/introduction-to-regularization-to-reduce-overfitting-and-improve-generalization-error/
-  - https://keras.rstudio.com/articles/tutorial_overfit_underfit.html
-  - Be Nice to your Neurons https://www.cl.cam.ac.uk/~pv273/slides/UCLS2.pdf
+   - https://blog.slavv.com/37-reasons-why-your-neural-network-is-not-working-4020854bd607
+   - https://machinelearningmastery.com/introduction-to-regularization-to-reduce-overfitting-and-improve-generalization-error/
+   - https://keras.rstudio.com/articles/tutorial_overfit_underfit.html
+   - Be Nice to your Neurons https://www.cl.cam.ac.uk/~pv273/slides/UCLS2.pdf
   
  - Weights Regularization, Activity Regularization and Dropout
-   - https://stackoverflow.com/questions/50649831/understanding-regularization-in-keras
-   - https://machinelearningmastery.com/weight-regularization-to-reduce-overfitting-of-deep-learning-models/
-   - https://www.fast.ai/2018/07/02/adam-weight-decay/
-   - Practical Keras code snippets for regularization https://www.ics.uci.edu/~mohamadt/keras_DL.pdf 
-   - Weights vs Acvity Regularization: https://github.com/keras-team/keras/issues/1618
-   - https://robotwealth.com/deep-learning-trading-fighting-overfitting-dropout-regularization/
-   - https://machinelearningmastery.com/dropout-regularization-deep-learning-models-keras/
-   - Dropout in 3 lines of Python https://iamtrask.github.io/2015/07/28/dropout/ 
-   - The original Dropout paper: https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf
-   - Keras author on weights regularization vs dropout https://twitter.com/fchollet/status/763085560206340096
+    - https://stackoverflow.com/questions/50649831/understanding-regularization-in-keras
+    - https://machinelearningmastery.com/weight-regularization-to-reduce-overfitting-of-deep-learning-models/
+    - https://www.fast.ai/2018/07/02/adam-weight-decay/
+    - Practical Keras code snippets for regularization https://www.ics.uci.edu/~mohamadt/keras_DL.pdf 
+    - Weights vs Acvity Regularization: https://github.com/keras-team/keras/issues/1618
+    - https://robotwealth.com/deep-learning-trading-fighting-overfitting-dropout-regularization/
+    - https://machinelearningmastery.com/dropout-regularization-deep-learning-models-keras/
+    - Dropout in 3 lines of Python https://iamtrask.github.io/2015/07/28/dropout/ 
+    - The original Dropout paper: https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf
+    - Keras author on weights regularization vs dropout https://twitter.com/fchollet/status/763085560206340096
    
  - Knowledge Distillation (maybe not so beginner but good to know to make your models smaller)
-   - The paper: https://arxiv.org/abs/1503.02531 
-   - https://github.com/Ujjwal-9/Knowledge-Distillation
-   - https://jacobgil.github.io/deeplearning/pruning-deep-learning
-   - https://www.oreilly.com/ideas/compressing-and-regularizing-deep-neural-networks
-   - https://github.com/kmsravindra/ML-AI-experiments/blob/master/AI/knowledge_distillation/Knowledge%20distillation.ipynb
-   - https://medium.com/neural-machines/knowledge-distillation-dc241d7c2322
-   - https://github.com/dkozlov/awesome-knowledge-distillation
-   - https://github.com/NervanaSystems/distiller/
+    - The paper: https://arxiv.org/abs/1503.02531 
+    - https://github.com/Ujjwal-9/Knowledge-Distillation
+    - https://jacobgil.github.io/deeplearning/pruning-deep-learning
+    - https://www.oreilly.com/ideas/compressing-and-regularizing-deep-neural-networks
+    - https://github.com/kmsravindra/ML-AI-experiments/blob/master/AI/knowledge_distillation/Knowledge%20distillation.ipynb
+    - https://medium.com/neural-machines/knowledge-distillation-dc241d7c2322
+    - https://github.com/dkozlov/awesome-knowledge-distillation
+    - https://github.com/NervanaSystems/distiller/ 
 
