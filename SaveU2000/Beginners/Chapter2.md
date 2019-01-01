@@ -55,16 +55,23 @@
 
 ### 2.3: Visualizing Convolutional Neual Net 
 
+- Visualizing Convolution Filters
+  - https://hackernoon.com/visualizing-parts-of-convolutional-neural-networks-using-keras-and-cats-5cc01b214e59
+  - https://www.youtube.com/watch?v=McgxRxi2Jqo
+  - https://distill.pub/2017/feature-visualization/
+  - http://cs231n.github.io/understanding-cnn/
+  
 - Visualizing Intermediate Activation
   - https://towardsdatascience.com/visualizing-intermediate-activation-in-convolutional-neural-networks-with-keras-260b36d60d0
   - https://www.youtube.com/watch?v=ghEmQSxT6tw
+  - http://yosinski.com/deepvis and https://github.com/yosinski/deep-visualization-toolbox
 
-- Visualizing Convolution Filters
-  - https://hackernoon.com/visualizing-parts-of-convolutional-neural-networks-using-keras-and-cats-5cc01b214e59
-  - 
-- Visualizing Class Activation (Heatmap)
+- Visualizing Class Activation Maps
+  - http://cnnlocalization.csail.mit.edu/
   - https://jacobgil.github.io/deeplearning/class-activation-maps
- 
+  - https://github.com/TheShadow29/FAI-notes/blob/master/notebooks/Using-CAM-for-CNN-Visualization.ipynb
+  - https://github.com/trancept/deep_learning_tests/blob/master/015-HeatMap.ipynb
+
  
 ### 2.4: Convolutional Neural Net (for real)
 
@@ -80,15 +87,17 @@ Frankly, blogposts are nice as an idea introducer. After that one should either 
 Sometimes, there'll be more practical knowledge in the classes above too:
 
  - How to apply deeper CNN architectures to image classification task? 
- - How to use pre-trained models from other people to do tansfer learning
+ - How to use pre-trained models from other people to do tansfer learning?
 
 After knowing what CNN layers does and what convolutional filters are and CNN arithmetics in details, you might not go far. To really understand CNNs and make them work, most probably you need some understanding about state of art variants of CNNs and how CNNs are stacked to form bigger architectures, e.g. Resnet, VGGnet, Inception, YOLO etc. should be the end goal one should seek. And to understand these new architectures, normally Googling these terms with your deep learning framework of choice would point to good tutorial/code that you can read, e.g. "Resnet pytorch", "inception keras".
 
-My suggestion is to go through the CNN class in the courses listed in the reference list in 2.2 tediously.
+My suggestion is to go through the CNN class in the courses listed in the reference list in 2.2 tediously. And here's some pointers: 
+
  - Do learn about *transfer learning* to save you on GPU computation cost, your precious time and sanity =)
  - FYI, *transfer learning* in CNN and computer vision is aka freeze some/most layers, unfreeze usually the last one or few layers
  - Do try to learn about new variants on top of CNN and architectures other than CNN through arixv or new reseach papers
  - Usually when most bootcamps/coding courses prepare the materials for a certain well know architecture, you can most probably learn about it by googling the architecture name with the DL framework of your choice. 
+ - Interpretability is the next hot thing in machine learning because of our need to know why things works and explain it (so that we don't cause robo-apocalypes ;P). So in terms of CNN and Computer Vision, naturally model and its component visualization is important.
  
 P/S: 
  
