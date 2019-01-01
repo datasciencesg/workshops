@@ -50,12 +50,12 @@
    - Keras author on weights regularization vs dropout https://twitter.com/fchollet/status/763085560206340096
    
  - Knowledge Distillation (maybe not so beginner but good to know to make your models smaller)
-  - The paper: https://arxiv.org/abs/1503.02531 
-  - https://github.com/Ujjwal-9/Knowledge-Distillation
-  - https://jacobgil.github.io/deeplearning/pruning-deep-learning
-  - https://www.oreilly.com/ideas/compressing-and-regularizing-deep-neural-networks
-  - https://github.com/kmsravindra/ML-AI-experiments/blob/master/AI/knowledge_distillation/Knowledge%20distillation.ipynb
-  - https://medium.com/neural-machines/knowledge-distillation-dc241d7c2322
-  - https://github.com/dkozlov/awesome-knowledge-distillation
-  - https://github.com/NervanaSystems/distiller/
+   - The paper: https://arxiv.org/abs/1503.02531 
+   - https://github.com/Ujjwal-9/Knowledge-Distillation
+   - https://jacobgil.github.io/deeplearning/pruning-deep-learning
+   - https://www.oreilly.com/ideas/compressing-and-regularizing-deep-neural-networks
+   - https://github.com/kmsravindra/ML-AI-experiments/blob/master/AI/knowledge_distillation/Knowledge%20distillation.ipynb
+   - https://medium.com/neural-machines/knowledge-distillation-dc241d7c2322
+   - https://github.com/dkozlov/awesome-knowledge-distillation
+   - https://github.com/NervanaSystems/distiller/
 
