@@ -18,4 +18,4 @@ How to use this list of materials?
 
 Simply navigate to https://github.com/datasciencesg/workshops/tree/master/LearnItYourself/Beginners
 
-**Note:** We only have the beginner topics ready for now. But do also not that while some courses/bootcamps might think that some topics are advance, we might have them in the beginners topic.
+**Note:** We only have the beginner topics ready for now. But do also note that while some courses/bootcamps might think that some topics are advance, we might have them in the beginner topics.
