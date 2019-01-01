@@ -45,7 +45,10 @@ The answer to the above are usually (i) profile your code, (ii) make model small
  - https://towardsdatascience.com/understanding-the-bias-variance-tradeoff-165e6942b229
  - In terse math: http://www.inf.ed.ac.uk/teaching/courses/mlsc/Notes/Lecture4/BiasVariance.pdf 
  - https://kevinzakka.github.io/2016/09/26/applying-deep-learning/
- 
+
+----
+
+
 ### 5.2: Regularization
 
  - Why is my Neural Network not working?
