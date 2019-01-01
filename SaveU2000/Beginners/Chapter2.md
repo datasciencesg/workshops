@@ -6,8 +6,11 @@
   - 2.2: *Convolutional Neural Net*
     - Blogposts that presents CNN
     - Show me the Code
+    - Show me the Math
     
-  - 2.3: *Convolutional Neural Net (for real)*
+  - 2.3 *Visualizing CNN*
+    
+  - 2.4: *Convolutional Neural Net (for real)*
   
 ----
 
@@ -40,17 +43,32 @@
    - https://medium.com/tensorflow/hello-deep-learning-fashion-mnist-with-keras-50fcff8cd74a
    - https://github.com/MorvanZhou/PyTorch-Tutorial/blob/master/tutorial-contents/401_CNN.py
    
+ - *Show me the Math* (CNN Arithmetic)
+   - https://arxiv.org/pdf/1603.07285v1.pdf
 
 **Reference**  
   - Udacity PyTorch course: https://classroom.udacity.com/courses/ud188 
   - Udacity Tensorflow course: https://classroom.udacity.com/courses/ud730
   - Stanford Course http://cs231n.github.io/convolutional-networks/
   - Kaggle Learn https://www.kaggle.com/learn/deep-learning
-    
+ 
 
-### Convolutional Neural Net (for real)
+### 2.3: Visualizing Convolutional Neual Net 
 
-Frankly, blogposts are nice as an idea introducer. After that one should either dive into the code or get onto the free classes (in the reference list above) to understand the details of why and how CNNs work. CNN are powerful tools that can solve many problems (even outside of computer vision). Usually, any of the courses listed above should cover:
+- Visualizing Intermediate Activation
+  - https://towardsdatascience.com/visualizing-intermediate-activation-in-convolutional-neural-networks-with-keras-260b36d60d0
+  - https://www.youtube.com/watch?v=ghEmQSxT6tw
+
+- Visualizing Convolution Filters
+  - https://hackernoon.com/visualizing-parts-of-convolutional-neural-networks-using-keras-and-cats-5cc01b214e59
+  - 
+- Visualizing Class Activation (Heatmap)
+  - https://jacobgil.github.io/deeplearning/class-activation-maps
+ 
+ 
+### 2.4: Convolutional Neural Net (for real)
+
+Frankly, blogposts are nice as an idea introducer. After that one should either dive into the code or get onto the free classes (in the 2.2 reference list above) to understand the details of why and how CNNs work. CNN are powerful tools that can solve many problems (even outside of computer vision). Usually, any of the courses listed above should cover:
 
  - What is the covolution filter?
  - What is a fully connected layer? What is pooling? What is the difference? 
