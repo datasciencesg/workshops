@@ -62,8 +62,7 @@ My suggestion is to go through the CNN class in the courses listed in the refere
  - Do try to learn about new variants on top of CNN and architectures other than CNN through arixv or new reseach papers
  - Usually when most bootcamps/coding courses prepare the materials for a certain well know architecture, you can most probably learn about it by googling the architecture name with the DL framework of your choice. 
  
- 
- P/S: I do see some DL training courses touch of state-of-the-art or fresh out of the oven architectures and those usually leave me impressed.
+ P/S: I do see some DL training courses touch of state-of-the-art or fresh out of the oven architectures and those usually leave me impressed. Otherwise if it's simply introducing CNN, there's more than enough information out there to learn for free =)
 
 
 
