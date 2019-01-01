@@ -22,6 +22,8 @@
  - KAIST Course: http://vclab.kaist.ac.kr/cs484/index.html 
  - MIT computer Vision class: https://www.youtube.com/watch?v=CLOAswsxudo (part of [self-driving cars course](https://selfdrivingcars.mit.edu/))
  - Stanford course http://cs231n.stanford.edu/ 
+
+----
  
  
 ### 2.2: Convolutional Neural Nets (CNN)
@@ -51,6 +53,8 @@
   - Udacity Tensorflow course: https://classroom.udacity.com/courses/ud730
   - Stanford Course http://cs231n.github.io/convolutional-networks/
   - Kaggle Learn https://www.kaggle.com/learn/deep-learning
+
+----
  
 
 ### 2.3: Visualizing Convolutional Neual Net 
@@ -73,7 +77,8 @@
   - https://github.com/TheShadow29/FAI-notes/blob/master/notebooks/Using-CAM-for-CNN-Visualization.ipynb
   - https://github.com/trancept/deep_learning_tests/blob/master/015-HeatMap.ipynb
 
- 
+----
+
 ### 2.4: Convolutional Neural Net (for real)
 
 Frankly, blogposts are nice as an idea introducer. After that one should either dive into the code or get onto the free classes (in the 2.2 reference list above) to understand the details of why and how CNNs work. CNN are powerful tools that can solve many problems (even outside of computer vision). Usually, any of the courses listed above should cover:
