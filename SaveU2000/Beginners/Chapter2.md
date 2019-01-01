@@ -41,7 +41,7 @@
    - https://github.com/MorvanZhou/PyTorch-Tutorial/blob/master/tutorial-contents/401_CNN.py
    
 
-**References**  
+**Reference**  
   - Udacity PyTorch course: https://classroom.udacity.com/courses/ud188 
   - Udacity Tensorflow course: https://classroom.udacity.com/courses/ud730
   - Stanford Course http://cs231n.github.io/convolutional-networks/
@@ -50,9 +50,7 @@
 
 ### Convolutional Neural Net (for real)
 
-Frankly, blogposts are nice as a idea introducer. After that one should either dive into the code or get onto the classes to understand the details of why and how CNNs work. CNN are powerful tools that can solve many problems (even outside of computer vision). 
-
-Sometimes you see coding courses/bootcamps giving a lot of new terminology in their syllabus. Most of those times, they are jargons that can be explained simply, don't be afraid to ask on the Data Science SG Facebook about what these terms are or how to find resources that can help explain those terms. 
+Frankly, blogposts are nice as an idea introducer. After that one should either dive into the code or get onto the classes (in the reference list above) to understand the details of why and how CNNs work. CNN are powerful tools that can solve many problems (even outside of computer vision). 
 
 After knowing what CNN layers does and what convolutional filters are and CNN arithmetics in details, you might not go far. To really understand CNNs and make them work, most probably you need some understanding about state of art variants of CNNs and how CNNs are stacked to form bigger architectures, e.g. Resnet, VGGnet, Inception, YOLO etc. should be the end goal one should seek. And to understand these new architectures, normally Googling these terms with your deep learning framework of choice would point to good tutorial/code that you can read, e.g. "Resnet pytorch", "inception keras".
 
@@ -62,7 +60,15 @@ My suggestion is to go through the CNN class in the courses listed in the refere
  - Do try to learn about new variants on top of CNN and architectures other than CNN through arixv or new reseach papers
  - Usually when most bootcamps/coding courses prepare the materials for a certain well know architecture, you can most probably learn about it by googling the architecture name with the DL framework of your choice. 
  
- P/S: I do see some DL training courses touch of state-of-the-art or fresh out of the oven architectures and those usually leave me impressed. Otherwise if it's simply introducing CNN, there's more than enough information out there to learn for free =)
+P/S: 
+ 
+I do see some DL training courses touch of state-of-the-art or fresh out of the oven architectures and those usually leave me impressed. Otherwise if it's simply introducing CNN, there's more than enough information out there to learn for free =)
+
+Also, sometimes you see coding courses/bootcamps giving a lot of new terminology in their syllabus. Most of those times, they are jargons that can be explained simply, don't be afraid to ask on the Data Science SG Facebook about what these terms are or how to find resources that can help explain those terms. For example, the course syllabus might throw you a list of jargon `["Adam", "Adagrad", "AdaDelta", "AdaMax", "NAdam", "RMSprop", "SGD", "WAdam"]`, indeed there are important differences between these names but they achieve the same purpose of updating gradients so that the model can update the parameters, i.e. optimizing the model (and that's why they're called optimizer). If the course briefly explains the difference and simply just goes through the fact that they exist in the deep learning library that you're using and show you the following images, then you're better off just reading [Sebastian Ruder's blogpost](http://ruder.io/optimizing-gradient-descent/index.html#visualizationofalgorithms):
+
+![](http://ruder.io/content/images/2016/09/contours_evaluation_optimizers.gif)
+
+![](http://ruder.io/content/images/2016/09/saddle_point_evaluation_optimizers.gif)
 
 
 
