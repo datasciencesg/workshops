@@ -54,7 +54,7 @@ Frankly, blogposts are nice as an idea introducer. After that one should either 
 
  - What is the covolution filter?
  - What is a fully connected layer? What is pooling? What is the difference? 
- - What are the different "dimensions", "channels" in convolution neural nets?
+ - What are the different "dimensions" (1D, 2D, 3D, nD convnets), "channels" in convolution neural nets?
  - How to not overfit? (the measures to prevent overfit is aka regularization)
  - How to use dropout as a regularization measure? 
  - How to apply simple convolution neural nets to image classification task?
