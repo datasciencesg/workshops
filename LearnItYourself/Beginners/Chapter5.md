@@ -69,7 +69,10 @@ The answer to the above are usually (i) profile your code, (ii) make model small
     - The original Dropout paper: https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf
     - Keras author on weights regularization vs dropout https://twitter.com/fchollet/status/763085560206340096
    
- - Knowledge Distillation (maybe not so beginner but good to know to make your models smaller)
+----
+ 
+### 5.3: Knowledge Distillation (maybe not so beginner but good to know to make your models smaller)
+
     - The paper: https://arxiv.org/abs/1503.02531 
     - https://github.com/Ujjwal-9/Knowledge-Distillation
     - https://jacobgil.github.io/deeplearning/pruning-deep-learning
