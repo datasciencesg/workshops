@@ -7,7 +7,24 @@
     - Weights Regularization and Dropout
   - 5.3: *Knowledge Distilation*
   
-**Note:** This chapter doesn't have the "for real" section because every point in here seems to be the for real part when we train models with realistic datasets. 
+**Note:** 
+
+This chapter doesn't have the "for real" section because every point in here seems to be the for real part when we train models with realistic datasets. We always asks ourselves these questions:
+  
+  - Why isn't our models working?
+  - Even if our models are working, how to improve it?  
+  - Why doesn't the same model work for another similar dataset? 
+  
+
+The answer to the above are usually (i) check bias-variance then (ii) Regularize? Get more data? Bigger models?
+  
+Sometimes we also ask these questions:
+
+  - Why is the model so slow?
+  - How to make the model faster during inference (i.e. when using it after training is finished)?
+  - How to make training faster? 
+  
+The answer to the above are usually (i) profile your code, (ii) make model smaller / distill model (iii) choose another model, (iv) create something totally new.
 
 ----
 
