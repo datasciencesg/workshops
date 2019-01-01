@@ -65,6 +65,7 @@
   - https://towardsdatascience.com/visualizing-intermediate-activation-in-convolutional-neural-networks-with-keras-260b36d60d0
   - https://www.youtube.com/watch?v=ghEmQSxT6tw
   - http://yosinski.com/deepvis and https://github.com/yosinski/deep-visualization-toolbox
+  - https://github.com/utkuozbulak/pytorch-cnn-visualizations
 
 - Visualizing Class Activation Maps
   - http://cnnlocalization.csail.mit.edu/
