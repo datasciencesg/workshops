@@ -80,3 +80,15 @@ There's really no point in chasing any method (in NLP or any other sub-fields of
    
 In 2018, here's some recent trends: https://arxiv.org/pdf/1708.02709.pdf
 
+Best way to keep up with NLP is to look at proceedings from these conferences (there's a lot but here's a few curated ones):
+ - Association of Computational Lingusitics (ACL) and related conferences: https://aclanthology.coli.uni-saarland.de/
+ - Text Analysis Conference (TAC): http://tac.nist.gov/publications/index.html
+   - *Due to a lapse in government funding, this and almost all NIST-affiliated websites will be unavailable until further notice.* -_-||| 
+ - Interspeech proceedings on https://www.isca-speech.org/iscaweb/index.php/online-archive 
+ - Text, Speech and Dialogue conferences: https://link.springer.com/conference/tsd
+ - SIGIR conferences: http://sigir.org/conferences/sponsored-conferences/ 
+ - AAAI conferences: http://www.aaai.org/Conferences/conferences.php 
+ - WWW conferences: http://www.iw3c2.org/
+ 
+ 
+
