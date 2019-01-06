@@ -13,6 +13,7 @@
     
   - 1.3: *Multi-Word Expressions, Keyphrase Extraction, Terminology*
     - Multi-Word Expression (MWE)
+      - http://www.coli.uni-saarland.de/courses/mwe16/page.php?id=schedule
     - Keyphrase Extraction
     - Terminology Extraction
     
