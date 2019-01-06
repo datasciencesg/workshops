@@ -22,12 +22,12 @@
   - 2.4: *Convolutional Neural Net (for real)*
   
   
-- **Chapter 3: Introduction to Natural Language Processing (NLP)** 
+- **Chapter 3: Natural Language Processing (NLP) and Recurrent Neural Nets** 
   - (In Progress, eta 06 Jan 2019)
  
  
-- **Chapter 4: Recurrent Neural Nets and NLP** 
-  - (In Progress, eta 06 Jan 2019)
+- **Chapter 4: Generative Adversial Nets and Self-Attention Nets** 
+  - (In Progress, eta 03 Feb 2019)
  
  
 - [**Chapter 5: Nuts and Bolts in Machine Learning**](https://github.com/datasciencesg/workshops/tree/master/LearnItYourself/Beginners/Chapter5.md)
