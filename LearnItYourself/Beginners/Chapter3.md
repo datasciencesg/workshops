@@ -90,7 +90,7 @@
 ----
 
 
-### 3.2: **Recurrent Neural Nets and Attention Mechanism**
+### 3.2: **Recurrent Neural Nets**
 
   - Blogpost that explains RNN
     - http://colah.github.io/posts/2015-08-Understanding-LSTMs/
@@ -99,17 +99,19 @@
     - http://www.wildml.com/2016/08/rnns-in-tensorflow-a-practical-guide-and-undocumented-features/
     - https://medium.com/@erikhallstrm/hello-world-rnn-83cd7105b767
     - https://skymind.ai/wiki/lstm
+    - **On Attention**
+      - https://medium.com/syncedreview/a-brief-overview-of-attention-mechanism-13c578ba9129
+      - http://www.wildml.com/2016/01/attention-and-memory-in-deep-learning-and-nlp/
+      - https://skymind.ai/wiki/attention-mechanism-memory-network
+      - https://machinelearningmastery.com/attention-long-short-term-memory-recurrent-neural-networks/
   
-  - Blogpost that explains Attention
-    - https://medium.com/syncedreview/a-brief-overview-of-attention-mechanism-13c578ba9129
-    - http://www.wildml.com/2016/01/attention-and-memory-in-deep-learning-and-nlp/
-    - https://skymind.ai/wiki/attention-mechanism-memory-network
-
   - Show me the code
     - https://iamtrask.github.io/2015/11/15/anyone-can-code-lstm/
     - http://www.jessicayung.com/lstms-for-time-series-in-pytorch/
-    - 
-
+    - https://medium.com/@shivambansal36/language-modelling-text-generation-using-lstms-deep-learning-for-nlp-ed36b224b275
+    - https://adventuresinmachinelearning.com/keras-lstm-tutorial/
+    - https://www.depends-on-the-definition.com/attention-lstm-relation-classification/
+    - For more, see above `The Get Things Done Way` (Section 3.1) 
 
   - Show me the math
     - https://www.coursera.org/lecture/nlp-sequence-models/why-sequence-models-0h7gT
@@ -139,15 +141,29 @@
 
 
   - Show me the code
+    - Original Tensor2Tensor library: https://github.com/tensorflow/tensor2tensor
     - http://nlp.seas.harvard.edu/2018/04/03/attention.html
     - https://medium.com/@kolloldas/building-the-mighty-transformer-for-sequence-tagging-in-pytorch-part-i-a1815655cd8 
+    - https://towardsdatascience.com/how-to-code-the-transformer-in-pytorch-24db27c8f9ec
+    
+    
+  - Show me the math
+    - Attention Is All You Need paper: https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf
+
+
+**Words of advice:**
+
+  - Why are there so few resources on "Transformer" for beginners? Because it's rather new =)
+  - If you want to see the influence of "Transformer" architectures in NLP, check out the papers from NAACH 201, ACL 2018, EMNLP 2018 from https://aclanthology.coli.uni-saarland.de/
 
 ----
 
 
 ### 3.4: Natural Language Processing (*for real*) 
 
-Natural Language Processing evolves really fast and as a field that mostly adopts/applies the "hottest" trend from mainstream machine/deep learning, every ~2-3 years the underlying state-of-art architecture for NLP changes (quite drastically). <!-- This is how fast we "throw away" things in NLP, e.g. https://towardsdatascience.com/the-fall-of-rnn-lstm-2d1594c74ce0 -->
+**You might ask**, "Hey, I saw this ['throw away your RNN' blogpost](https://towardsdatascience.com/the-fall-of-rnn-lstm-2d1594c74ce0). Does that mean whatever above is not relevant?"
+
+**Answer:** Natural Language Processing evolves really fast and as a field that mostly adopts/applies the "hottest" trend from mainstream machine/deep learning, every ~2-3 years the underlying state-of-art architecture for NLP changes (quite drastically).
 
 The only way to keep up is not to chase the trends. Know that the lastest/hottest algorithm or pre-trained models exists, understand how they work and find ways to incorporate them into whichever project/method you're using/researching on. 
 
@@ -168,5 +184,7 @@ Best way to keep up with NLP is to look at proceedings from these conferences (t
  - AAAI conferences: http://www.aaai.org/Conferences/conferences.php 
  - WWW conferences: http://www.iw3c2.org/
  
+ 
+As an NLP researcher/scientist, I encourage you to read and re-read these slides from Prof. Min-Yen Kan every once in a while http://coling2018.org/wp-content/uploads/2018/08/180824-researchFastAndSlow-1.pdf 
 
 
