@@ -1,9 +1,12 @@
 # Overview
 
-- **Chapter 3: Recurrent Neural Nets, Self-Attention Nets and Natural Language Processing**
+- **Chapter 3: Natural Language Processing and Recurrent Neural / Self-Attention Nets**
 
-  - 3.1 *Introduction to Natural Language Processing*
- 
+  - 3.1: *Introduction to Natural Language Processing*
+    - The Get Things Done Way
+    - The Slow and Steady Way
+    
+    
   - 3.2 *Recurrent Neural Nets*
     - Blogposts that presents RNN
     - Show me the Code
@@ -14,7 +17,7 @@
      - Show me the Code
      - Show me the Math
    
- - 3.4 *Natural Language Processing (for real)*
+ - 3.4: *Natural Language Processing (for real)*
    
 ----
 
@@ -62,22 +65,21 @@
  - Saarland University [Foundations in Language Sciencea and Technology (FLST) course](http://www.coli.uni-saarland.de/courses/FLST/2018/FLST.html)  
   - National University of Singapore (NUS) [Deep Learning for NLP Course](https://www.comp.nus.edu.sg/~kanmy/courses/6101_1810/)
   
-**Books / Articles**
- 
-  - [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/) (Jurafsky and Martin's Book) 
-  - [Foundations of Statistical Natural Language Processing](https://nlp.stanford.edu/fsnlp/) (Chris Manning's book, hardcore math)
-  - [Computational Linguistics and Deep Learning](https://www.mitpressjournals.org/doi/pdf/10.1162/COLI_a_00239) (Chris Manning's words in 2015)
-  - [A Primer on Neural Network Models for Natural Language Processing](https://u.cs.biu.ac.il/~yogo/nnlp.pdf) (Yoav Goldberg's book/chapter)
-    - physical book version on https://www.morganclaypool.com/doi/abs/10.2200/S00762ED1V01Y201703HLT037
-  - [Jacob Einstein's notes on NLP and DL](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
-  - [Natural Language Processing with PyTorch](http://shop.oreilly.com/product/0636920063445.do)
-  - 
-   
-**Related but not directly**
-
-  - [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu/) (Russell and Norvig's book)
-    - Borrow from national library, click [here](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/13461273/269039522,1) =) 
-  - [Deep Learning](https://www.deeplearningbook.org/) (Goodfellow et al. book)
+  
+**References**
+  - Books / Articles
+    - [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/) (Jurafsky and Martin's Book) 
+    - [Foundations of Statistical Natural Language Processing](https://nlp.stanford.edu/fsnlp/) (Chris Manning's book, hardcore math)
+    - [Computational Linguistics and Deep Learning](https://www.mitpressjournals.org/doi/pdf/10.1162/COLI_a_00239) (Chris Manning's words in 2015)
+    - [A Primer on Neural Network Models for Natural Language Processing](https://u.cs.biu.ac.il/~yogo/nnlp.pdf) (Yoav Goldberg's book/chapter)
+      - physical book version on https://www.morganclaypool.com/doi/abs/10.2200/S00762ED1V01Y201703HLT037
+    - [Jacob Einstein's notes on NLP and DL](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
+    - [Natural Language Processing with PyTorch](http://shop.oreilly.com/product/0636920063445.do)
+    - [Deep Learning with Text](http://shop.oreilly.com/product/0636920076063.do)
+  - Related but not directly
+    - [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu/) (Russell and Norvig's book)
+      - Borrow from national library, click [here](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/13461273/269039522,1) =) 
+    - [Deep Learning](https://www.deeplearningbook.org/) (Goodfellow et al. book)
   
    
 **Words of advice:**
