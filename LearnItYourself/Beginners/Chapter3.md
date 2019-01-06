@@ -21,9 +21,24 @@
 
 ### 3.1: **Introduction to Natural Language Processing**
 
+**The Get things done Way**
+
+ - PyTorch Tutorials:
+   - 
+   - https://pytorch.org/tutorials/beginner/deep_learning_nlp_tutorial.html (take a look at others under the `Text` section on the left panel too)
+   
+ - SpaCy Tutorials
+   - 
+ - Gensim Tutorials
+   - https://lilianweng.github.io/lil-log/2017/10/15/learning-word-embedding.html
+ - NLTK Basics (the useful bits): 
+   - 
+   -
+
+**The Slow and Steady Way**
+
  - Stanford Course: https://web.stanford.edu/class/cs224n/ 
  - Berkley Course: http://people.ischool.berkeley.edu/~dbamman/nlp18.html
- - 
  - [Lisbon Machine Learning School (LxMLS 2018)](http://lxmls.it.pt/2018/?page_id=19) (focuses a lot on NLP in 2018)
  - Saarland University [Foundations in Language Sciencea and Technology (FLST) course](http://www.coli.uni-saarland.de/courses/FLST/2018/FLST.html)  
   - National University of Singapore (NUS) [Deep Learning for NLP Course](https://www.comp.nus.edu.sg/~kanmy/courses/6101_1810/)
@@ -45,19 +60,49 @@
   - [Deep Learning](https://www.deeplearningbook.org/) (Goodfellow et al. book)
   
    
-  
+**Words of advice:**
+
+  - NLP is kind of niche but still a pretty wide subfield, knowing little goes a long way but understanding the basics goes a longer way.
+  - The courses above requires quite a lot of committment 
+
+
 ----
 
 
-### 3.2: **Recurrent Neural Nets**
+### 3.2: **Recurrent Neural Nets and Attention Mechanism**
 
+  - Blogpost that explains RNN
+    - http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+    - http://karpathy.github.io/2015/05/21/rnn-effectiveness/
+    - http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/
+    - http://www.wildml.com/2016/08/rnns-in-tensorflow-a-practical-guide-and-undocumented-features/
+    - https://medium.com/@erikhallstrm/hello-world-rnn-83cd7105b767
+    - https://skymind.ai/wiki/lstm
+  
+  - Blogpost that explains Attention
+    - https://medium.com/syncedreview/a-brief-overview-of-attention-mechanism-13c578ba9129
+    - http://www.wildml.com/2016/01/attention-and-memory-in-deep-learning-and-nlp/
+    - https://skymind.ai/wiki/attention-mechanism-memory-network
 
   - Show me the code
     - https://iamtrask.github.io/2015/11/15/anyone-can-code-lstm/
+    - http://www.jessicayung.com/lstms-for-time-series-in-pytorch/
+    - 
 
 
   - Show me the math
+    - https://www.coursera.org/lecture/nlp-sequence-models/why-sequence-models-0h7gT
+    - http://arunmallya.github.io/writeups/nn/lstm/index.html#/ (move forward the page by clicking the arrow on bottom right)
     - https://www.cs.toronto.edu/~tingwuwang/rnn_tutorial.pdf
+    - https://brilliant.org/wiki/recurrent-neural-network/
+    - http://www.cs.bham.ac.uk/~jxb/INC/l12.pdf
+    - https://www.kth.se/polopoly_fs/1.801971!/deep%20learning.pdf
+    - https://arxiv.org/pdf/1803.06396.pdf
+    - Independent RNN https://arxiv.org/abs/1803.04831 (Not really for beginners but this is like the AlexNet of RNNs)
+    - RNN Paper: https://www.mitpressjournals.org/doi/abs/10.1162/neco.1997.9.8.1735 
+    - LSTM Paper: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.676.4320&rep=rep1&type=pdf 
+    - GRU Paper: https://arxiv.org/pdf/1502.02367v4.pdf
+    - Alex Grave's Thesis: http://www.cs.toronto.edu/~graves/phd.pdf
 
 ----
 
@@ -67,7 +112,10 @@
   - Blogpost that explains Self-Attention Nets
     - http://jalammar.github.io/illustrated-transformer/
     - https://ai.googleblog.com/2017/08/transformer-novel-neural-network.htm
+    - https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html
     - https://mchromiak.github.io/articles/2017/Sep/12/Transformer-Attentionis-all-you-need/
+    - https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html (Different attention)
+
 
   - Show me the code
     - http://nlp.seas.harvard.edu/2018/04/03/attention.html
@@ -78,7 +126,7 @@
 
 ### 3.4: Natural Language Processing (*for real*) 
 
-Natural Language Processing evolves really fast and as a field that mostly adopts/applies the "hottest" trend from mainstream machine/deep learning, every ~2-3 years the underlying state-of-art architecture for NLP changes (quite drastically). 
+Natural Language Processing evolves really fast and as a field that mostly adopts/applies the "hottest" trend from mainstream machine/deep learning, every ~2-3 years the underlying state-of-art architecture for NLP changes (quite drastically). <!-- This is how fast we "throw away" things in NLP, e.g. https://towardsdatascience.com/the-fall-of-rnn-lstm-2d1594c74ce0 -->
 
 The only way to keep up is not to chase the trends. Know that the lastest/hottest algorithm or pre-trained models exists, understand how they work and find ways to incorporate them into whichever project/method you're using/researching on. 
 
