@@ -82,8 +82,9 @@
 
  - Tensorflow course on Udacity: https://www.udacity.com/course/deep-learning--ud730 (Knowledge is free, certification needs payment)
  - PyTorch course on Udacity https://in.udacity.com/course/deep-learning-pytorch--ud188 
- -  Fast AI https://www.fast.ai/ 
+ - Fast AI https://www.fast.ai/ 
  - Bayesian analysis https://sites.google.com/site/doingbayesiandataanalysis/what-s-new-in-2nd-ed 
+ - Neural Networks and Deep Learning http://neuralnetworksanddeeplearning.com/ 
     
 **Words of advice:**
 
