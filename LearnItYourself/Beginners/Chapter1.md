@@ -118,5 +118,6 @@ If you want a real deep dive to "Deep Learning (for real)", many good universiti
 - MIT Deep Learning Course http://introtodeeplearning.com/2018/index.html 
 - CMU Deep Learning Course http://deeplearning.cs.cmu.edu/
 - Berkley Deep Learning Course https://berkeley-deep-learning.github.io/ 
+  - [Dive into Deep Learning](http://d2l.ai/index.html) interactive book
 - Princeton Deep Learning Course https://www.cs.princeton.edu/courses/archive/spring16/cos495/
 
