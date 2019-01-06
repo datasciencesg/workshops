@@ -19,11 +19,24 @@
    - Treebanks
      - Penn Treebank 
      - Universal Dependencies Treebank
-     - Deep Bank and Redwoods Treebanks
      - CCG Bank
      
  - 1.2: *Semantics*
    - Formal Semantics and Logics
+     - Predicate Logic
+     - Type Theory
+     - Lambda Calculus
+     - Generalized Quantifiers
+     - Event Semantics
+     - Dynamic Semantics & Discourse Representation Theory
+     - Presuppositions
+     - Distributed Situation-state Spaces
+
+   - Semantic Treebanks
+     - Groningen Meaning Bank: http://gmb.let.rug.nl/
+     - Abstract Meaning Representation: https://amr.isi.edu/
+     - Deep Bank: http://moin.delph-in.net/DeepBank 
+   
    - Vector Semantics
    - Semantic Parsing
    
@@ -40,3 +53,5 @@
    - Reading List from Uni Saarland: http://www.coli.uni-saarland.de/courses/bayesian-NLP-17/page.php?id=papers 
 
  
+ - 1.8: Computational Psycholinguistics
+   - http://www.coli.uni-saarland.de/courses/language-aging/
