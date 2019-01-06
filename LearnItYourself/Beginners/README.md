@@ -34,7 +34,7 @@
      - Blogposts that presents Transformer
      - Show me the Code
      - Show me the Math
- - 3.4: *Natural Language Processing (for real)*
+  - 3.4: *Natural Language Processing (for real)*
  
  
 - **Chapter 4: Generative Adversial Nets and Self-Attention Nets** 
