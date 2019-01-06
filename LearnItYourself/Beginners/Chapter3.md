@@ -21,16 +21,22 @@
 
 ### 3.1: **Introduction to Natural Language Processing**
 
-
+ - Stanford Course: https://web.stanford.edu/class/cs224n/ 
+ - Berkley Course: http://people.ischool.berkeley.edu/~dbamman/nlp18.html
+ - 
  - [Lisbon Machine Learning School (LxMLS 2018)](http://lxmls.it.pt/2018/?page_id=19) (focuses a lot on NLP in 2018)
- - Saarland University [Foundations in Language Sciencea and Technology (FLST) course](http://www.coli.uni-saarland.de/courses/FLST/2018/FLST.html) 
+ - Saarland University [Foundations in Language Sciencea and Technology (FLST) course](http://www.coli.uni-saarland.de/courses/FLST/2018/FLST.html)  
+  - National University of Singapore (NUS) [Deep Learning for NLP Course](https://www.comp.nus.edu.sg/~kanmy/courses/6101_1810/)
+  
+**Books / Articles**
  
- - [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/) (Jurafsky and Martin's Book) 
- - [Foundations of Statistical Natural Language Processing](https://nlp.stanford.edu/fsnlp/) (Chris Manning's book, hardcore math)
- - [Computational Linguistics and Deep Learning](https://www.mitpressjournals.org/doi/pdf/10.1162/COLI_a_00239) (Chris Manning's words in 2015)
- - [A Primer on Neural Network Models for Natural Language Processing](https://u.cs.biu.ac.il/~yogo/nnlp.pdf) (Yoav Goldberg's book/chapter)
-   - physical book version on https://www.morganclaypool.com/doi/abs/10.2200/S00762ED1V01Y201703HLT037
-
+  - [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/) (Jurafsky and Martin's Book) 
+  - [Foundations of Statistical Natural Language Processing](https://nlp.stanford.edu/fsnlp/) (Chris Manning's book, hardcore math)
+  - [Computational Linguistics and Deep Learning](https://www.mitpressjournals.org/doi/pdf/10.1162/COLI_a_00239) (Chris Manning's words in 2015)
+  - [A Primer on Neural Network Models for Natural Language Processing](https://u.cs.biu.ac.il/~yogo/nnlp.pdf) (Yoav Goldberg's book/chapter)
+    - physical book version on https://www.morganclaypool.com/doi/abs/10.2200/S00762ED1V01Y201703HLT037
+  - [Jacob Einstein's notes on NLP and DL](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
+ 
    
 **Related but not directly**
 
@@ -46,9 +52,12 @@
 ### 3.2: **Recurrent Neural Nets**
 
 
-  Show me the code
+  - Show me the code
     - https://iamtrask.github.io/2015/11/15/anyone-can-code-lstm/
 
+
+  - Show me the math
+    - https://www.cs.toronto.edu/~tingwuwang/rnn_tutorial.pdf
 
 ----
 
