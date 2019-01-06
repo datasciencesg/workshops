@@ -21,19 +21,17 @@
 
 ### 3.1: **Introduction to Natural Language Processing**
 
-**The Get things done Way**
-
- - PyTorch Tutorials:
-   - 
-   - https://pytorch.org/tutorials/beginner/deep_learning_nlp_tutorial.html (take a look at others under the `Text` section on the left panel too)
-   
- - SpaCy Tutorials
-   - 
- - Gensim Tutorials
-   - https://lilianweng.github.io/lil-log/2017/10/15/learning-word-embedding.html
- - NLTK Basics (the useful bits): 
-   - 
-   -
+**The Get things Done Way**
+  - PyTorch Tutorials:
+    - 
+    - https://pytorch.org/tutorials/beginner/deep_learning_nlp_tutorial.html (take a look at others under the `Text` section on the left panel too
+  - SpaCy Tutorials
+    - 
+  - Gensim Tutorials
+    - https://lilianweng.github.io/lil-log/2017/10/15/learning-word-embedding.html
+  - NLTK Basics (the useful bits): 
+    - 
+    -
 
 **The Slow and Steady Way**
 
