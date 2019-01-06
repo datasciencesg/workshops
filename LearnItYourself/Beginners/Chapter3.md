@@ -21,6 +21,8 @@
 
 ### 3.1: **Introduction to Natural Language Processing**
 
+
+ - [Lisbon Machine Learning School (LxMLS 2018)](http://lxmls.it.pt/2018/?page_id=19) (focuses a lot on NLP in 2018)
  - Saarland University [Foundations in Language Sciencea and Technology (FLST) course](http://www.coli.uni-saarland.de/courses/FLST/2018/FLST.html) 
  
  - [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/) (Jurafsky and Martin's Book) 
@@ -31,8 +33,11 @@
 
    
 **Related but not directly**
+
   - [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu/) (Russell and Norvig's book)
     - Borrow from national library, click [here](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/13461273/269039522,1) =) 
+  - [Deep Learning](https://www.deeplearningbook.org/) (Goodfellow et al. book)
+  
    
   
 ----
@@ -41,15 +46,28 @@
 ### 3.2: **Recurrent Neural Nets**
 
 
+  Show me the code
+    - https://iamtrask.github.io/2015/11/15/anyone-can-code-lstm/
+
+
 ----
 
 
 ### 3.3: **Self-Attention Nets** (aka Transformer)
 
+  - Blogpost that explains Self-Attention Nets
+    - http://jalammar.github.io/illustrated-transformer/
+    - https://ai.googleblog.com/2017/08/transformer-novel-neural-network.htm
+    - https://mchromiak.github.io/articles/2017/Sep/12/Transformer-Attentionis-all-you-need/
+
+  - Show me the code
+    - http://nlp.seas.harvard.edu/2018/04/03/attention.html
+    - https://medium.com/@kolloldas/building-the-mighty-transformer-for-sequence-tagging-in-pytorch-part-i-a1815655cd8 
+
 ----
 
 
-### 3.4: **Natural Language Processing (*for real*) **
+### 3.4: Natural Language Processing (*for real*) 
 
 Natural Language Processing evolves really fast and as a field that mostly adopts/applies the "hottest" trend from mainstream machine/deep learning, every ~2-3 years the underlying state-of-art architecture for NLP changes (quite drastically). 
 
