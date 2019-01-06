@@ -33,3 +33,7 @@
  
  - 1.5: *Task Independent NLP*
  
+ - 1.6: *Bayesian NLP*
+   - Reading List from Uni Saarland: http://www.coli.uni-saarland.de/courses/bayesian-NLP-17/page.php?id=papers 
+
+ 
