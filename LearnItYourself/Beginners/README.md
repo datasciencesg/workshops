@@ -22,8 +22,20 @@
   - 2.4: *Convolutional Neural Net (for real)*
   
   
-- **Chapter 3: Natural Language Processing (NLP) and Recurrent Neural Nets** 
-  - (In Progress, eta 06 Jan 2019)
+- [**Chapter 3: Natural Language Processing and Recurrent Neural / Self-Attention Nets**]
+(https://github.com/datasciencesg/workshops/tree/master/LearnItYourself/Beginners/Chapter3.md)
+  - 3.1: *Introduction to Natural Language Processing*
+    - The Get Things Done Way
+    - The Slow and Steady Way
+  - 3.2 *Recurrent Neural Nets*
+    - Blogposts that presents RNN
+    - Show me the Code
+    - Show me the Math
+  - 3.3 *Self-Attention Nets* (aka Transformer)
+     - Blogposts that presents Transformer
+     - Show me the Code
+     - Show me the Math
+ - 3.4: *Natural Language Processing (for real)*
  
  
 - **Chapter 4: Generative Adversial Nets and Self-Attention Nets** 
