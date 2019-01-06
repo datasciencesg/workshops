@@ -159,7 +159,7 @@
 **Words of advice:**
 
   - Why are there so few resources on "Transformer" for beginners? *Because it's rather new =)*
-  - If you want to see the influence of "Transformer" architectures in NLP, check out the papers from NAACH 201, ACL 2018, EMNLP 2018 from https://aclanthology.coli.uni-saarland.de/
+  - If you want to see the influence of "Transformer" architectures in NLP, check out the papers from NAACL 2018, ACL 2018, EMNLP 2018 from https://aclanthology.coli.uni-saarland.de/
 
 ----
 
