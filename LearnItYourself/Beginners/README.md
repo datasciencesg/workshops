@@ -12,7 +12,7 @@
     - Probablistic Learning
   - 1.3: *Deep Learning (for real)*
 
-- [**Chapter 2: Computer Vision and Convolutional Neural Net**](https://github.com/datasciencesg/workshops/tree/master/LearnItYourself/Beginners/Chapter1.md)
+- [**Chapter 2: Computer Vision and Convolutional Neural Net**](https://github.com/datasciencesg/workshops/tree/master/LearnItYourself/Beginners/Chapter2.md)
   - 2.1: *Introduction to Computer Vision*
   - 2.2: *Convolutional Neural Net*
     - Blogposts that presents CNN
