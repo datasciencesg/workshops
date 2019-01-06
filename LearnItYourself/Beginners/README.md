@@ -22,7 +22,7 @@
   - 2.4: *Convolutional Neural Net (for real)*
   
   
-- [**Chapter 3: Natural Language Processing and Recurrent Neural / Self-Attention Nets**](https://github.com/datasciencesg/workshops/tree/master/LearnItYourself/Beginners/Chapter3.md)
+- [**Chapter 3: Natural Language Processing, Recurrent Neural Nets and Self-Attention Nets**](https://github.com/datasciencesg/workshops/tree/master/LearnItYourself/Beginners/Chapter3.md)
   - 3.1: *Introduction to Natural Language Processing*
     - The Get Things Done Way
     - The Slow and Steady Way
