@@ -1,6 +1,6 @@
 # Overview
 
-- **Chapter 3: Natural Language Processing and Recurrent Neural / Self-Attention Nets**
+- **Chapter 3: Natural Language Processing, Recurrent Neural Nets and Self-Attention Nets**
 
   - 3.1: *Introduction to Natural Language Processing*
     - The Get Things Done Way
