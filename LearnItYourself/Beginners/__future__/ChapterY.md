@@ -29,11 +29,14 @@
    
  - 1.3: *Phonology*
  
- - 1.4: *Regular Expressions*
+ - 1.4 *Discourse*
+   - Reading List from Uni Saarland http://www.coli.uni-saarland.de/courses/discourse-parsing-17/page.php?id=papers
  
- - 1.5: *Task Independent NLP*
+ - 1.5: *Regular Expressions*
  
- - 1.6: *Bayesian NLP*
+ - 1.6: *Task Independent NLP*
+ 
+ - 1.7: *Bayesian NLP*
    - Reading List from Uni Saarland: http://www.coli.uni-saarland.de/courses/bayesian-NLP-17/page.php?id=papers 
 
  
