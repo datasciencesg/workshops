@@ -83,7 +83,7 @@
 **Words of advice:**
 
   - NLP is kind of niche but still a pretty wide subfield, knowing little goes a long way but understanding the basics goes a longer way.
-  - The courses above requires quite a lot of committment, if you're looking for a quick way to break-in to NLP, pick one of the tools from `The Get Things Done Way` section and be good at it.
+  - The courses above require quite a lot of committment, if you're looking for a quick way to break-in to NLP, pick one of the tools from `The Get Things Done Way` section and start from there, while you work through one of the courses listed above.
   - Read the `NLP (for real)` section =)
 
 
@@ -153,7 +153,7 @@
 
 **Words of advice:**
 
-  - Why are there so few resources on "Transformer" for beginners? Because it's rather new =)
+  - Why are there so few resources on "Transformer" for beginners? *Because it's rather new =)*
   - If you want to see the influence of "Transformer" architectures in NLP, check out the papers from NAACH 201, ACL 2018, EMNLP 2018 from https://aclanthology.coli.uni-saarland.de/
 
 ----
