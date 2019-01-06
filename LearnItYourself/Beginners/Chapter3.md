@@ -18,7 +18,16 @@
      - Show me the Math
    
  - 3.4: *Natural Language Processing (for real)*
-   
+ 
+ 
+ **Words of advice:**
+
+  - NLP is kind of niche but still a pretty wide subfield, knowing little goes a long way but understanding the basics goes a longer way.
+  - The free courses listed in Secion 3.1 require quite a lot of committment, if you're looking for a quick way to break-in to NLP, pick one of the tools from `The Get Things Done Way` section and start from there, while you work through one of the courses listed above. 
+    - P/S: You don't have to know everything in NLP or all the tools but it's good to know that alternative tools exists
+  - Read the `NLP (for real)` section =)
+
+
 ----
 
 
@@ -81,12 +90,6 @@
       - Borrow from national library, click [here](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/13461273/269039522,1) =) 
     - [Deep Learning](https://www.deeplearningbook.org/) (Goodfellow et al. book)
   
-   
-**Words of advice:**
-
-  - NLP is kind of niche but still a pretty wide subfield, knowing little goes a long way but understanding the basics goes a longer way.
-  - The courses above require quite a lot of committment, if you're looking for a quick way to break-in to NLP, pick one of the tools from `The Get Things Done Way` section and start from there, while you work through one of the courses listed above.
-  - Read the `NLP (for real)` section =)
 
 
 ----
