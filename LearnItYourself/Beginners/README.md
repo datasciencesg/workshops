@@ -35,9 +35,9 @@
      - Show me the Code
      - Show me the Math
   - 3.4: *Natural Language Processing (for real)*
+  
  
- 
-- **Chapter 4: Generative Adversial Nets and Self-Attention Nets** 
+- **Chapter 4: Generative Adversial Nets and Style Transfer** 
   - (In Progress, eta 03 Mar 2019)
  
  
@@ -47,3 +47,4 @@
     - Why is my Neural Network not working?
     - Weights Regularization and Dropout
   - 5.3: *Knowledge Distilation*
+  
